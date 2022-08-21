@@ -11,8 +11,25 @@ global.APIKeys = {
 	'https://zenzapis.xyz': 'your key',
 }
 
-global.alivemsg = `📤I am alive now😇
-🤷‍♀️How can I help you?😉` //Costomize Alive Message (type your message in `` )
+global.alivemsg =Alivemsg 
+
+මම දැන් Online බං 😁
+
+ඔයාට කොහොමද 😘
+
+ඔයාට menu එක ගන්න යට තියෙන Menu බටන් එක ඔබන්න😎
+
+අපිව Subscribe  කරන්නත් අමතක කරන්න එපා 🤗
+
+https://youtube.com/channel/UC4eIQOT9JdznytsprIUhE-w
+
+අනේ අහිංසක මගේ Youtube channel  එක අනිවා subscribe කරන්න 😉
+
+මගේ Owner  බලන්න යට තියෙන Owner  බටන් එක ඔබන්න 😎
+
+𝙄𝙈 𝙎𝙇 𝙐𝘿 𝘽𝙊𝙏
+
+𝙋𝙊𝙒𝙀𝙍𝘿 𝘽𝙔 𝙎𝙇 𝙐𝘿 𝙏𝙀𝘾𝙃 `` )
 
 
 global.autoTyping = false //auto tying in gc (true to on, false to off)
@@ -30,13 +47,13 @@ global.doc6 = 'application/vnd.android.package-archive'
 
 //owner v card
 global.vcardowner = ['+380944814219'] // owner number
-global.ownername = "😎𝙆.𝙋𝙧𝙖𝙗𝙝𝙖𝙨𝙝𝙖❯❯" // owner name
-global.ytname = "" // yt chanel name
-global.socialm = "GitHub: prabhasha2006" // github or insta name
+global.ownername = "😎UDHANIKA❯❯" // owner name
+global.ytname = "SL UD TECH" // yt chanel name
+global.socialm = "GitHub: udmods1234" // github or insta name
 global.location = "India, Mizoram, Aizawl" // location
 
 //bot body 
-global.alivepic = `https://i.ibb.co/cyyCjN7/20220803-081426.png` // alive picture \\ use "https://ibb.com" to upload photos. < 1 MB
+global.alivepic = `https://i.ibb.co/HXRcfw3/sl-ud.png` // alive picture \\ use "https://ibb.com" to upload photos. < 1 MB
 
 global.dragonchat = "false"  // chat bot  "true" / "false" (200 auto replies in this)
 global.callblock = "false" // call block "true" / "false" ("true"  to block callers)
@@ -47,16 +64,16 @@ global.upsongvoice = "false" // true/false \\ bot can upload song as voice note 
 global.welcom_msg = "true" // Welcome / Goodbye   [true/false]
 
 
-global.owner = ['+380944814219']
-global.ownertag = '+380944814219' //your tag number
-global.botname = '𝙍𝙀𝘿╺ 𝘿𝙍𝘼𝙂𝙊𝙉 - 𝘉𝘖𝘛' //ur bot name
+global.owner = ['+94704638406']
+global.ownertag = '+94704638406' //your tag number
+global.botname = 'SL UD BOT' //ur bot name
 global.packname = "Bot Sticker" // sticker packname
-global.author = "𝙍𝙀𝘿╺ 𝘿𝙍𝘼𝙂𝙊𝙉" // sticker author
-global.dragonemoji = '🧩' // Menu emoji
-global.footer = '[ ◉ ʀᴇᴅ-ᴅʀᴀɢᴏɴ-ᴍᴅ ]' //
+global.author = "Udhanika" // sticker author
+global.dragonemoji = '✔' // Menu emoji
+global.footer = 'GENARATED BY UD MODS' //
 
 //database
-global.premium = ['+380944814219'] //ur premium numbers
+global.premium = ['+94704638606'] //ur premium numbers
 
 //other
 global.sessionName = 'session'
