@@ -11,7 +11,7 @@ global.APIKeys = {
 	'https://zenzapis.xyz': 'your key',
 }
 
-global.alivemsg =Alivemsg 
+global.alivemsg ='
 
 මම දැන් Online බං 😁
 
