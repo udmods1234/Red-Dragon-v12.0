@@ -20,9 +20,9 @@ global.alivemsg ='✤ හායි යාලුවනේ ...🥰❤️
 ❖https://chat.whatsapp.com/LbopDo2z1at1gH8M3O7nGz
 
 ✤ඔයාට මොකක් හරි ගැටලුවක් තියෙනවනම් මෙ යට තියෙන ලින්ක් එක ටච් කරල ownerට මැසේජ් එකක් දාන්න.😊🤞🥰
-❖Owner  wa.me/+94763989448 '
+❖Owner  wa.me/+94763989448 ' //Costomize Alive Message (type your message in `` )
 
-`` )
+
 
 
 global.autoTyping = false //auto tying in gc (true to on, false to off)
