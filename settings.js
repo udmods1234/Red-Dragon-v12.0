@@ -12,25 +12,33 @@ global.APIKeys = {
 }
 
 
-global.alivemsg = `✤ හායි යාලුවනේ ...🥰❤️
+global.alivemsg = `.alivemsg
+මගේ 𝙩𝙞𝙠 𝙩𝙤𝙠 𝙚𝙘𝙘𝙤𝙬𝙣𝙩  එක 𝙛𝙖𝙡𝙡𝙤𝙬 කරන්න😄
+tiktok.com/@ff.sl.comand
+      ◉═════════════◉
+          ~UD BOT V12.0~
+      ◉═════════════◉
 
-✤සුබ දවසක් ඔයාල හැමෝටම..🥰❤️࿑
-
-✤මම දැන් Online බං 😁
-
-✤ඔයාට කොහොමද 😘
-
-✤ඔයාට menu එක ගන්න යට තියෙන Menu බටන් එක ඔබන්න😝🤟
-
-✤අපේ official whatsapp group එකට join වෙන්න මේ තියෙන link එකෙන්🤭🤗
-
-❖https://chat.whatsapp.com/LbopDo2z1at1gH8M3O7nGz
-
-✤ඔයාට මොකක් හරි ගැටලුවක් තියෙනවනම් මෙ යට තියෙන ලින්ක් එක ටච් කරල ownerට මැසේජ් එකක් දාන්න.😊🤞🥰
-
-❖Owner  wa.me/+94763989448
-
-ᴘᴏᴡᴇʀᴅ ʙʏ ᴹᴿ ʸᵃˢⁱᵗʰ 
+│───────────────────◉
+│*මම දැන් Online  😁
+│
+│ඔයාට කොහොමද* 😘
+│───────────────────◉
+│
+│*ඔයාට menu එක ගන්න යට තියෙන Menu බටන් │එක ඔබන්න😎*
+│
+│───────────────────
+│
+│─────────────────
+│────────────
+│*OUR Website* =~ https://sl-ud-mods.yolasite.com/ ~
+│*OUR BOT Group* =~ https://chat.whatsapp.com/ ~Js1wRUHBf2VBpkHAP114fD
+│𝙄𝙈 𝙎𝙇 𝙐𝘿 𝘽𝙊𝙏
+│───────────────────◉
+│𝙋𝙊𝙒𝙀𝙍𝘿 𝘽𝙔 𝙎𝙇 𝙐𝘿 𝙏𝙀𝘾𝙃
+│ˢˡ ᵘᵈ ᵐᵒᵈˢ ᵒᶠᶜ
+│Special Thanks to Red-dragon Team
+│────────────────────────────────◉
 
 ᴍʀ ʏʜ ʙᴏᴛ` //Costomize Alive Message (type your message in `` )
 
@@ -51,8 +59,8 @@ global.doc5 = 'application/pdf'
 global.doc6 = 'application/vnd.android.package-archive'
 
 //owner v card
-global.vcardowner = ['+94726028048'] // owner number
-global.ownername = "😎YASITH❯❯" // owner name
+global.vcardowner = ['+94 76 754 8370'] // owner number
+global.ownername = "😎Mayantha❯❯" // owner name
 global.ytname = "SL UD TECH" // yt chanel name
 global.socialm = "GitHub: udmods1234" // github or insta name
 global.location = "India, Mizoram, Aizawl" // location
@@ -69,16 +77,16 @@ global.upsongvoice = "false" // true/false \\ bot can upload song as voice note 
 global.welcom_msg = "true" // Welcome / Goodbye   [true/false]
 
 
-global.owner = ['+94726028048']
-global.ownertag = '+94726028048' //your tag number
-global.botname = 'MR YH BOT' //ur bot name
-global.packname = "MR YASITH ™®" // sticker packname
-global.author = "Yasith" // sticker author
+global.owner = ['+94 76 754 8370']
+global.ownertag = '+94 76 754 8370' //your tag number
+global.botname = ' 𝙎𝙇.රවන.𝘽𝙊𝙏 //ur bot name
+global.packname = "MR Mayantha ™®" // sticker packname
+global.author = "Mayantha" // sticker author
 global.dragonemoji = '✔' // Menu emoji
-global.footer = 'GENARATED BY MR YASITH' //
+global.footer = 'GENARATED BY MR UD MODS' //
 
 //database
-global.premium = ['+94726028048'] //ur premium numbers
+global.premium = ['+94 76 754 8370'] //ur premium numbers
 
 //other
 global.sessionName = 'session'
